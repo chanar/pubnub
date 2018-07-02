@@ -1,5 +1,5 @@
 {
-    "name": "nodes/pubnub",
+    "name": "chanar/pubnub",
     "description": "Broadcast events with PubNub in your Laravel project",
     "keywords": [
         "nodes",
